@@ -9,12 +9,13 @@
 class UsersController extends AppController
 {
 
-    public $helpers = array('Form','Html');
-
-    function beforeFilter() {
+    public function beforeFilter() {
         parent::beforeFilter();
+        $this->Auth->allow('add');
     }
 
+
+    //Process request in admin page
     public function admin_login()
     {
         if($this->Session->check('user') && $this->Session->read('user') == 1){

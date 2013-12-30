@@ -17,6 +17,7 @@
  */
 
 $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+$_loginPage = (isset($this->params['prefix']) && $this->params['prefix'] == 'admin') && ($this->params['controller'] == 'users') && ($this->params['action'] == 'admin_login');
 ?>
 <!DOCTYPE html>
 <html>
@@ -39,7 +40,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
         echo $this->Html->css(array('bootstrap-datetimepicker.min'));
         echo $this->Html->css(array('select2.css'));
         echo $this->Html->css(array('slider.css'));
-        echo $this->Html->css(array('admin'));
+        echo $this->Html->css(array('style.css'));
 
         /*End Add css*/
 
@@ -49,22 +50,15 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 		echo $this->fetch('script');
 	?>
 </head>
-<body>
-	<div id="container" class="container">
-		<div id="header">
-            <div id="menu">
-                <?php echo $this->fetch('navbar');?>
-            </div>
-		</div>
-		<div id="content">
-			<?php echo $this->Session->flash(); ?>
-
-			<?php echo $this->fetch('content'); ?>
-		</div>
-		<div id="footer">
-			<?php echo "Developer by Sonnv" ?>
-		</div>
-	</div>
-	<?php echo $this->element('sql_dump'); ?>
+<body <?php if($_loginPage):?> class='texture' <?php endif; ?>>
+    <?php if(!$_loginPage):?>
+        <div id="head-nav" class="navbar navbar-default navbar-fixed-top">
+            <?php  echo $this->element('navbar'); ?>
+        </div>
+    <?php endif; ?>
+        <div id="cl-wrapper" <?php if($_loginPage):?> class="login-container" <?php endif; ?>>
+            <?php echo $this->Session->flash(); ?>
+            <?php echo $this->fetch('content'); ?>
+        </div>
 </body>
 </html>

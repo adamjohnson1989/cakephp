@@ -33,7 +33,19 @@ App::uses('Controller', 'Controller');
 class AppController extends Controller {
 
     public $helpers = array('Form','Html');
-    public $components = array('Session');
+    public $components = array(
+        'Session',
+        'Auth' => array(
+            'loginRedirect' => array(
+                'controller' => '',
+                'action'     => ''
+            ),
+            'logoutRedirect' => array(
+                'controller' => '',
+                'action'     => ''
+            )
+        )
+    );
 
     public function beforeFilter() {
         if (isset($this->params['prefix']) && $this->params['prefix'] == 'admin') {

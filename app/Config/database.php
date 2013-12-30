@@ -69,7 +69,7 @@ class DATABASE_CONFIG {
 		'password' => '',
 		'database' => 'revol_cakephp',
 		'prefix' => '',
-		//'encoding' => 'utf8',
+		'encoding' => 'utf8',
 	);
 
     /*

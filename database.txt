@@ -1,0 +1,20 @@
+table 1: Law_cat table (This table uses to save law category)
+- id
+- cat_name
+- cat_link
+- cat_parent
+
+table 2: Law_list (List law)
+- id
+- law_name
+- law_public_date
+- law_sign
+- law_content
+- law_link
+- law_agency_issued_id
+- law_cat_id
+
+table 3:law_agency_issued
+
+- id
+- agency_issued

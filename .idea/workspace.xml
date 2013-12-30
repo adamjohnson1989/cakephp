@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1617d83b-59d0-42f8-9a95-8497289673fb" name="Default" comment="" />
+    <list default="true" id="1617d83b-59d0-42f8-9a95-8497289673fb" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Project\Cakephp\cakephp\.idea\.name" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controller/AppController.php" afterPath="$PROJECT_DIR$/app/Controller/AppController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/Cake/Controller/Component/PaginatorComponent.php" afterPath="$PROJECT_DIR$/lib/Cake/Controller/Component/PaginatorComponent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Model/User.php" afterPath="$PROJECT_DIR$/app/Model/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Controller/UsersController.php" afterPath="$PROJECT_DIR$/app/Controller/UsersController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Layouts/admin.ctp" afterPath="$PROJECT_DIR$/app/View/Layouts/admin.ctp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Users/admin_login.ctp" afterPath="$PROJECT_DIR$/app/View/Users/admin_login.ctp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Config/database.php" afterPath="$PROJECT_DIR$/app/Config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Posts/index.ctp" afterPath="$PROJECT_DIR$/app/View/Posts/index.ctp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/magicento.xml" afterPath="$PROJECT_DIR$/.idea/magicento.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Elements/navbar.ctp" afterPath="$PROJECT_DIR$/app/View/Elements/navbar.ctp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/webroot/css/style.css" afterPath="$PROJECT_DIR$/app/webroot/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/View/Posts/view.ctp" afterPath="$PROJECT_DIR$/app/View/Posts/view.ctp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="cakephp.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,34 +48,57 @@
       <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Config/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="69" selection-start="1329" selection-end="1448" vertical-scroll-proportion="-6.1923075" vertical-offset="79" max-vertical-offset="680">
+            <state line="31" column="60" selection-start="1383" selection-end="1389" vertical-scroll-proportion="-6.4827585" vertical-offset="100" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppController.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AppController.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="36" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-14.423077" vertical-offset="45" max-vertical-offset="620">
+            <state line="44" column="34" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.8253275" vertical-offset="57" max-vertical-offset="1032">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.ctp" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="admin.ctp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/View/Layouts/admin.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="42" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.635514" vertical-offset="180" max-vertical-offset="1220">
+            <state line="19" column="172" selection-start="909" selection-end="909" vertical-scroll-proportion="-3.310345" vertical-offset="0" max-vertical-offset="1320">
+              <folding>
+                <marker date="1388414646799" expanded="true" signature="937:1104" placeholder="..." />
+                <marker date="1388414646799" expanded="true" signature="944:1104" placeholder="..." />
+                <marker date="1388414646799" expanded="true" signature="992:1071" placeholder="..." />
+                <marker date="1388414646799" expanded="true" signature="2001:2041" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsersController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Controller/UsersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="35" selection-start="284" selection-end="284" vertical-scroll-proportion="-9.931034" vertical-offset="0" max-vertical-offset="1128">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/webroot/css/admin.css">
+      <file leaf-file-name="admin_login.ctp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/View/Users/admin_login.ctp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4431" column="27" selection-start="100593" selection-end="100593" vertical-scroll-proportion="0.0" vertical-offset="88359" max-vertical-offset="89000">
+            <state line="23" column="85" selection-start="1383" selection-end="1383" vertical-scroll-proportion="-15.724138" vertical-offset="96" max-vertical-offset="1080">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="9" selection-start="519" selection-end="519" vertical-scroll-proportion="-17.068966" vertical-offset="9" max-vertical-offset="696">
               <folding />
             </state>
           </provider>
@@ -72,25 +111,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/webroot/js/ckeditor.js" />
         <option value="$PROJECT_DIR$/app/View/Layouts/default.ctp" />
         <option value="$PROJECT_DIR$/app/View/Posts/create_post.ctp" />
         <option value="$PROJECT_DIR$/app/Config/core.php" />
-        <option value="$PROJECT_DIR$/app/View/Elements/navbar.ctp" />
         <option value="$PROJECT_DIR$/app/View/Posts/admin_dashboard.ctp" />
         <option value="$PROJECT_DIR$/app/View/Posts/admin_login.ctp" />
         <option value="$PROJECT_DIR$/app/Controller/PostsController.php" />
-        <option value="$PROJECT_DIR$/app/Model/User.php" />
         <option value="$PROJECT_DIR$/app/View/Users/admin_dashboard.ctp" />
         <option value="$PROJECT_DIR$/app/Config/routes.php" />
-        <option value="$PROJECT_DIR$/app/Controller/UsersController.php" />
-        <option value="$PROJECT_DIR$/app/View/Users/admin_login.ctp" />
-        <option value="$PROJECT_DIR$/app/Controller/AppController.php" />
         <option value="$PROJECT_DIR$/app/webroot/css/admin.css" />
+        <option value="$PROJECT_DIR$/app/webroot/css/style.css" />
         <option value="$PROJECT_DIR$/app/View/Layouts/admin.ctp" />
+        <option value="$PROJECT_DIR$/app/View/Users/admin_login.ctp" />
+        <option value="$PROJECT_DIR$/app/Controller/UsersController.php" />
+        <option value="$PROJECT_DIR$/app/View/Elements/navbar.ctp" />
+        <option value="$PROJECT_DIR$/app/Model/User.php" />
+        <option value="$PROJECT_DIR$/app/Controller/AppController.php" />
       </list>
     </option>
   </component>
@@ -98,8 +145,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -162,6 +209,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,29 +256,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cakephp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cakephp" />
+              <option name="myItemId" value="View" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="Users" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -266,24 +296,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cakephp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="editing.templates" />
+    <property name="options.lastSelected" value="com.magicento.ui.forms.MagicentoSettingsForm" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -336,7 +401,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -344,7 +409,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25378788" sideWeight="0.4274322" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19772728" sideWeight="0.57256776" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19722222" sideWeight="0.57256776" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25378788" sideWeight="0.4274322" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -371,9 +436,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/View/Layouts/admin.ctp">
+    <entry file="file://$PROJECT_DIR$/app/Config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="865" selection-end="882" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="1300">
+        <state line="31" column="0" selection-start="1329" selection-end="1448" vertical-scroll-proportion="0.0" vertical-offset="744" max-vertical-offset="1176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="960">
           <folding />
         </state>
       </provider>
@@ -381,13 +453,6 @@
     <entry file="file://$PROJECT_DIR$/app/Config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="114" selection-start="1438" selection-end="1443" vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1060">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Users/admin_login.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="12" selection-start="879" selection-end="879" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="620">
           <folding />
         </state>
       </provider>
@@ -402,75 +467,75 @@
         <state line="152" column="0" selection-start="5592" selection-end="5592" vertical-scroll-proportion="0.52380955" vertical-offset="2425" max-vertical-offset="7480" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Elements/navbar.ctp">
+    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/User.php">
+    <entry file="file://$PROJECT_DIR$/app/webroot/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="118" selection-end="118" vertical-scroll-proportion="0.27826086" vertical-offset="0" max-vertical-offset="575">
+        <state line="604" column="26" selection-start="13338" selection-end="13338" vertical-scroll-proportion="0.36699858" vertical-offset="14238" max-vertical-offset="72336">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Layouts/default.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="38" selection-start="1752" selection-end="1759" vertical-scroll-proportion="0.6869565" vertical-offset="785" max-vertical-offset="1360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Controller/PagesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Users/admin_dashboard.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="2" selection-start="107" selection-end="107" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="260">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/View/Users/admin_login.ctp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="58" selection-end="62" vertical-scroll-proportion="0.069565214" vertical-offset="0" max-vertical-offset="575">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Controller/UsersController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="5" selection-start="1011" selection-end="1011" vertical-scroll-proportion="0.0" vertical-offset="640" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/webroot/css/admin.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4431" column="27" selection-start="100593" selection-end="100593" vertical-scroll-proportion="0.0" vertical-offset="88359" max-vertical-offset="89000">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="36" selection-start="1364" selection-end="1364" vertical-scroll-proportion="-14.423077" vertical-offset="45" max-vertical-offset="620">
+        <state line="50" column="22" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.41339156" vertical-offset="556" max-vertical-offset="1272">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="69" selection-start="1329" selection-end="1448" vertical-scroll-proportion="-6.1923075" vertical-offset="79" max-vertical-offset="680">
+        <state line="31" column="60" selection-start="1383" selection-end="1389" vertical-scroll-proportion="-6.4827585" vertical-offset="100" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/UsersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="35" selection-start="284" selection-end="284" vertical-scroll-proportion="-9.931034" vertical-offset="0" max-vertical-offset="1128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Elements/navbar.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="716">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/View/Layouts/admin.ctp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="42" selection-start="1465" selection-end="1465" vertical-scroll-proportion="0.635514" vertical-offset="180" max-vertical-offset="1220">
+        <state line="19" column="172" selection-start="909" selection-end="909" vertical-scroll-proportion="-3.310345" vertical-offset="0" max-vertical-offset="1320">
+          <folding>
+            <marker date="1388414646799" expanded="true" signature="937:1104" placeholder="..." />
+            <marker date="1388414646799" expanded="true" signature="944:1104" placeholder="..." />
+            <marker date="1388414646799" expanded="true" signature="992:1071" placeholder="..." />
+            <marker date="1388414646799" expanded="true" signature="2001:2041" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/View/Users/admin_login.ctp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="85" selection-start="1383" selection-end="1383" vertical-scroll-proportion="-15.724138" vertical-offset="96" max-vertical-offset="1080">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="9" selection-start="519" selection-end="519" vertical-scroll-proportion="-17.068966" vertical-offset="9" max-vertical-offset="696">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Controller/AppController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="34" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.8253275" vertical-offset="57" max-vertical-offset="1032">
           <folding />
         </state>
       </provider>
